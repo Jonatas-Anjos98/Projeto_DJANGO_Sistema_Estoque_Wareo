@@ -1,7 +1,7 @@
-# Projeto Prodify
+# Projeto Wareo
 
 ## Descrição
-Prodify é um sistema simples e eficiente para gestão de produtos, desenvolvido com Django Admin. Permite cadastrar, editar, excluir e controlar o estoque, preço e disponibilidade de produtos, facilitando a administração para pequenos negócios e freelancers. Desenvolvimento rápido e interface intuitiva.
+Wareo é um sistema simples e eficiente para gestão de produtos, desenvolvido com Django Admin. Permite cadastrar, editar, excluir e controlar o estoque, preço e disponibilidade de produtos, facilitando a administração para pequenos negócios e freelancers. Desenvolvimento rápido e interface intuitiva.
 
 ## Funcionalidades
 - Cadastro completo de produtos (nome, descrição, preço e estoque)
@@ -41,3 +41,4 @@ Projeto open source para fins educativos e comerciais.
 ***
 
 Projeto ideal para quem quer uma solução rápida e prática para organizar produtos, com base no poder do Django Admin.
+
