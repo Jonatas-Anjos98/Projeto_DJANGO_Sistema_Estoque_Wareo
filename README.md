@@ -38,4 +38,4 @@ Contribuições são bem-vindas! Para colaborar, faça um fork do projeto, crie 
 ## Licença
 Projeto open source para fins educativos e comerciais.
 
-***
+
