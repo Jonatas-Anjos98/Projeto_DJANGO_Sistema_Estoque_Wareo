@@ -39,6 +39,3 @@ Contribuições são bem-vindas! Para colaborar, faça um fork do projeto, crie 
 Projeto open source para fins educativos e comerciais.
 
 ***
-
-Projeto ideal para quem quer uma solução rápida e prática para organizar produtos, com base no poder do Django Admin.
-
