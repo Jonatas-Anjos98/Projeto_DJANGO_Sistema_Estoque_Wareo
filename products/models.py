@@ -34,6 +34,7 @@ class Product(models.Model):
     brand = models.ForeignKey(Brand, on_delete=models.PROTECT, related_name='products', verbose_name='Marca')
     category = models.ForeignKey(Category, on_delete=models.PROTECT, related_name='products', verbose_name='Categoria')
     price = models.DecimalField(max_digits=10, decimal_places=2, verbose_name='Preço')
+    stock = models.IntegerField(default=0, verbose_name='Estoque')
     is_active = models.BooleanField(default=True, verbose_name='Ativo')
     description = models.TextField(null=True, blank=True, verbose_name='Descrição')
     created_at = models.DateTimeField(auto_now_add=True, verbose_name='Criado em')
