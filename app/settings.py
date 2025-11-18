@@ -31,6 +31,8 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'grappelli',
+
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -40,6 +42,7 @@ INSTALLED_APPS = [
 
     'products',
 ]
+GRAPPELLI_ADMIN_TITLE = 'SGP'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
